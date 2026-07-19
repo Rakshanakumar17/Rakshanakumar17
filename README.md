@@ -1,132 +1,101 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rakshana+A.K;Data+Analyst+%7C+Dashboard+Developer;Turning+Raw+Data+into+Insights" alt="Typing SVG" />
-</h1>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=120&section=header" />
-</p>
-✨ About Me
+# 👋 Hi, I'm Rakshana A.K
 
+### 🎯 Aspiring Data Analyst | Python | Power BI | Tableau
 
-📊 Data Analyst with hands-on experience in Python, SQL, Excel, Tableau, and Power BI
-🧹 Skilled in data cleaning, preprocessing, EDA, and statistical analysis on datasets of 5,000+ records
-📈 Experienced in building interactive dashboards, KPI reports, and A/B testing for data-driven decisions
-🎓 B.E. Computer Science Engineering (AI & ML) @ Paavai Engineering College (2022–2026)
-🌱 Currently exploring Machine Learning and Deep Learning
-💬 Ask me about dashboard development, EDA, or data visualization storytelling
+---
 
+## ✨ About Me
 
+* 📊 Passionate about data analysis and visualization
+* 📈 Skilled in transforming raw data into actionable insights
+* 🧠 Strong foundation in data preprocessing, EDA, and machine learning basics
+* 🚀 Actively working on real-world data analytics projects
 
-🛠️ Skills
+---
 
-💻 Programming & Databases
+## 🛠️ Skills
 
-Show Image
-Show Image
-Show Image
-Show Image
+### 💻 Programming & Databases
 
-📊 BI & Visualization Tools
+* 🐍 Python (Pandas, NumPy)
+* 📊 R
+* 🗄️ SQL (MySQL)
 
-Show Image
-Show Image
-Show Image
+### 📊 Data Visualization
 
-📚 Libraries & Frameworks
+* Power BI
+* Tableau
+* Microsoft Excel
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+### 📚 Libraries & Tools
 
-🔍 Analysis Techniques
+* Matplotlib
+* Seaborn
+* Scikit-learn
 
-Data Cleaning Data Preprocessing EDA Statistical Analysis Data Wrangling A/B Testing KPI Reporting Data Governance Stakeholder Reporting
+### 🔍 Data Analysis
 
-⚙️ Tools & Platforms
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Data Wrangling
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+### ⚙️ Tools & Platforms
 
+* Jupyter Notebook
+* Google Colab
+* VS Code
 
-🔥 Featured Projects
+---
 
-📊 E-Commerce Sales & Customer Intelligence Dashboard
+## 🔥 Featured Projects
 
-Analyzed the Global Superstore dataset end-to-end using Python and Excel — data cleaning, EDA, and an interactive Tableau dashboard tracking Total Sales, Profit, Orders, and Customers, with category/region/segment breakdowns.
+### 📊 Sales Dashboard (Power BI)
 
-Tools: Python, Pandas, NumPy, Excel, Tableau
-👉 Repo: https://github.com/Rakshanakumar17/ecommerce-sales-dashboard (update if your repo name is different)
-🔗 Live Dashboard: https://public.tableau.com/app/profile/ak.rakshana/viz/DashboardofGlobalE-commerce/Dashboard1?publish=yes
+* Developed an interactive dashboard to analyze sales performance
+* Identified trends and KPIs for business insights
+  👉 https://github.com/Rakshanakumar17/YOUR-REPO
 
+---
 
-⚡ EV Market Analytics Dashboard
+### 📉 Customer Segmentation (Tableau)
 
-Analyzed 5,000+ EV records to identify adoption trends, regional demand patterns, and market growth opportunities. Built an interactive Tableau dashboard with dynamic filters and KPI metrics.
+* Performed customer analysis and segmentation
+* Created visual dashboards to identify patterns
+  👉 https://github.com/Rakshanakumar17/ev-market-analysis-dashboard
 
-Tools: Tableau, Excel, Statistical Analysis
-👉 Repo: https://github.com/Rakshanakumar17/ev-market-analysis-dashboard
+---
 
+### 🐍 Data Analysis using Python
 
-🎬 Netflix Content Analysis Dashboard
+* Performed data cleaning, preprocessing, and EDA
+* Used Pandas, Matplotlib, and Seaborn for insights
+  👉 https://github.com/Rakshanakumar17/YOUR-REPO
 
-Performed EDA on 3,000+ content records using Python (Pandas, Matplotlib) to uncover genre distribution, release trends, and user preferences, visualized in an interactive Power BI dashboard.
+---
 
-Tools: Power BI, Python (Pandas, Matplotlib), EDA
-👉 Repo: https://github.com/Rakshanakumar17 (add your specific repo link here)
+## 📈 GitHub Stats
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakshanakumar17&theme=tokyonight)
 
-🎙️ Smart Personal Voice Assistant
+---
 
-Built a Python-based voice assistant using NLP, automating repetitive tasks and integrating email automation and voice command pipelines.
+## 🏆 Tools & Technologies
 
-Tools: Python, NLP, Automation
-👉 Repo: https://github.com/Rakshanakumar17 (add your specific repo link here)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+---
 
-📈 GitHub Stats
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rakshanakumar17&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshanakumar17&theme=tokyonight" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshanakumar17&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshanakumar17&theme=tokyo-night" width="90%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rakshanakumar17&theme=tokyonight&column=4&margin-w=10&margin-h=10" />
-</p>
+* 💼 LinkedIn: https://www.linkedin.com/in/rakshanakumar17/
+* 📧 Email: akrakshana17@gmail.com
 
-🐍 Contribution Snake
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rakshanakumar17/Rakshanakumar17/output/github-contribution-grid-snake.svg" width="90%" />
-</p>
-
-⚠️ Setup note: the snake animation needs a one-time GitHub Action added
-to this profile repo. Say the word and I'll write the exact workflow file
-for you — once added, it auto-updates and animates your contribution graph
-like a snake eating your commit squares.
-
-
-
-
-📫 Contact Me
-
-
-💼 LinkedIn: rakshanakumar17
-📧 Email: akrakshana17@gmail.com
-📍 Salem, Tamil Nadu, India
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
-</p>
-<p align="center"><i>⭐ "Turning data into actionable insights."</i></p>
+⭐ *“Turning data into actionable insights through data.”*
