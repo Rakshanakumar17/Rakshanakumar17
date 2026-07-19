@@ -93,8 +93,8 @@
 
 ## 📫 Contact Me
 
-* 💼 LinkedIn: (Add your LinkedIn link)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn: https://www.linkedin.com/in/rakshanakumar17/
+* 📧 Email: akrakshana17@gmail.com
 
 ---
 
