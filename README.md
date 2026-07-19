@@ -62,7 +62,7 @@
 
 * Performed customer analysis and segmentation
 * Created visual dashboards to identify patterns
-  👉 https://github.com/Rakshanakumar17/YOUR-REPO
+  👉 https://github.com/Rakshanakumar17/ev-market-analysis-dashboard
 
 ---
 
