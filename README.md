@@ -97,6 +97,26 @@ Tools: Python, NLP, Automation
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshanakumar17&layout=compact&theme=tokyonight" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshanakumar17&theme=tokyo-night" width="90%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rakshanakumar17&theme=tokyonight&column=4&margin-w=10&margin-h=10" />
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rakshanakumar17/Rakshanakumar17/output/github-contribution-grid-snake.svg" width="90%" />
+</p>
+
+⚠️ Setup note: the snake animation needs a one-time GitHub Action added
+to this profile repo. Say the word and I'll write the exact workflow file
+for you — once added, it auto-updates and animates your contribution graph
+like a snake eating your commit squares.
+
+
+
 
 📫 Contact Me
 
